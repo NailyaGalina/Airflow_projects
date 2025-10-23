@@ -34,3 +34,7 @@
 
 ![скриншот](Screenshot_3.png)
 
+<br>
+<br>
+
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
